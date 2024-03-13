@@ -1,0 +1,20 @@
+.input-dedit {
+  padding: 5px;
+  width: 190px;
+}
+
+.edit-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-button-container, .input-text-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.input-button-container .edit-button {
+  width: 70px;
+}
